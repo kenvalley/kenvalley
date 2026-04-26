@@ -98,8 +98,6 @@ I specialize in designing and deploying **scalable, secure, and intelligent syst
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 <p align="center">
   <a href="https://linkedin.com/in/kenneth-i-465513b7">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
