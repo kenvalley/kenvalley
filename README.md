@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Kenneth Ikeagu
 
 🚀 **DevOps | MLOps | LLMOps | Cloud Engineer**  
-
--🎓 B.Eng. - Electronic Engineering
--🎓 MSc. - Telecommunications and Wireless Systems (Engr.)
--🎓 PhD. - Electrical Engineering (Machine Learning --> Wireless Communications)
+🎓 B.Eng. Electronic Engineering | MSc. Telecommunications and Wireless Systems (Engr.) | PhD. Electrical Engineering
 
 ---
 
