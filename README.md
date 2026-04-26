@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Kenneth Ikeagu
 
 🚀 **DevOps | MLOps | LLMOps | Cloud Engineer**  
-🎓 B.Eng. - Electronic Engineering
-🎓 MSc. - Telecommunications and Wireless Systems (Engr.)
-🎓 PhD. - Electrical Engineering (Machine Learning --> Wireless Communications)
+-🎓 B.Eng. - Electronic Engineering
+-🎓 MSc. - Telecommunications and Wireless Systems (Engr.)
+-🎓 PhD. - Electrical Engineering (Machine Learning --> Wireless Communications)
 
 ---
 
@@ -108,4 +108,39 @@ I specialize in designing and deploying **scalable, secure, and intelligent syst
 - ⚡ High-performance **ML systems in production**
 - 🔐 Secure, compliant **cloud-native platforms**
 
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=kenvalley&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kenvalley&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenvalley&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kenvalley&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenvalley&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 ---
