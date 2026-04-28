@@ -37,11 +37,13 @@ I specialize in designing and deploying **scalable, secure, and intelligent syst
 
 ### 🤖 Machine Learning & MLOPs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SKLearn](https://img.shields.io/badge/SKLearn-3776AB?style=for-the-badge&logo=SKLearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![AWS SAGEMAKER](https://img.shields.io/badge/AWS_SAGEMAKER-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-623CE4?style=for-the-badge&logo=DVC)
 ![MLFlow](https://img.shields.io/badge/MLFlow-326CE5?style=for-the-badge&logo=MLFlow&logoColor=white)
+![AirFlow](https://img.shields.io/badge/SKLearn-3776AB?style=for-the-badge&logo=AirFlow&logoColor=white)
 ![KServe](https://img.shields.io/badge/KServe-FF9900?style=for-the-badge&logo=KServe&logoColor=white)
 
 
