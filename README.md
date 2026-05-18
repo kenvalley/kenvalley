@@ -79,12 +79,6 @@ I specialize in designing and deploying **scalable, secure, and intelligent syst
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenvalley&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
