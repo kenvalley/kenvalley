@@ -45,17 +45,6 @@ I specialize in designing and deploying **scalable, secure, and intelligent syst
 ![AirFlow](https://img.shields.io/badge/AirFlow-3776AB?style=for-the-badge&logo=AirFlow&logoColor=white)
 ![KServe](https://img.shields.io/badge/KServe-FF9900?style=for-the-badge&logo=KServe&logoColor=white)
 
-
----
-
-### 🧠 LLMOps & Frameworks
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-green?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-orange?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-326CE5?style=for-the-badge&logo=RAG&logoColor=white)
-
-
 ---
 
 ### 🔐 DevSecOps
@@ -81,12 +70,6 @@ I specialize in designing and deploying **scalable, secure, and intelligent syst
 ### 🤖 MLOps
 - 📊 End-to-end ML pipeline (training → deployment → monitoring)  
 - 🔄 Automated model retraining workflows  
-
----
-
-### 🧠 LLMOps
-- 💬 RAG pipeline using LangChain + vector databases  
-- 🧩 Multi-agent system using CrewAI / LangGraph  
 
 ---
 
