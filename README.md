@@ -69,7 +69,8 @@ I specialize in designing and deploying **scalable, secure, and intelligent syst
 
 ### 🤖 MLOps
 - 📊 End-to-end ML pipeline (training → deployment → monitoring)  
-- 🔄 Automated model retraining workflows  
+- 🔄 Automated model retraining workflows
+- https://github.com/kenvalley/kenvalley-churn1
 
 ---
 
