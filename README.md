@@ -38,12 +38,13 @@ I specialize in designing and deploying **scalable, secure, and intelligent syst
 #### Production-Grade MLOps Platform on AWS SageMaker: https://github.com/kenvalley/kenvalley-sagemaker-mlops-1
 -  A binary classifier is trained, versioned, governed, deployed, and monitored, with automated retraining triggered by drift detection.
 -  Every component is infrastructure-as-code, every model version is auditable, and the system self-heals when cloud resource limits prevent the default training path.
+-  SageMaker stack includes: SageMaker Feature Store, Pipelines, Clarify, Model Registry, Serverless Inference, SKLearn container, and Model Monitor
 
 #### MLOps Churn Prediction System, built and deployed on AWS EKS: https://github.com/kenvalley/kenvalley-churn1
 Features a Kubernetes-native production-grade MLOps pipeline for SaaS customer churn prediction, built and deployed on AWS EKS. The system:
 - Trains a LightGBM churn classifier weekly on account behavioural signals
 - Evaluates the model against quality gates before it can reach Production
-- Deploys it via GitOps (every deployment is a Git commit, every rollback is a git revert)
+- Deploys it via GitOps (ArgoCD): Every deployment is a Git commit, every rollback is a git revert
 - Serves real-time inference via KServe on AWS EKS with SHAP explanations
 - Presents risk scores to account managers via a Streamlit dashboard
 - Monitors system health via Grafana and triggers alerts on degradation
