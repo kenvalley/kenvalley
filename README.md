@@ -71,6 +71,7 @@ I specialize in designing and deploying **scalable, secure, and intelligent syst
 - 📊 End-to-end ML pipeline (training → deployment → monitoring)  
 - 🔄 Automated model retraining workflows
 - https://github.com/kenvalley/kenvalley-churn1
+- https://github.com/kenvalley/kenvalley-sagemaker-mlops-1
 
 ---
 
