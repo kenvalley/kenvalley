@@ -19,13 +19,20 @@ I specialize in designing and deploying **scalable, secure, and intelligent syst
 ## 📂 Featured Projects
 
 ### ☁️ Cloud Security & DevSecOps
-- 🔐 Secure AWS architecture with IAM least privilege & monitoring  
-- 🛡️ Infrastructure security scanning with Terraform + policies
-- 🔍 Security-integrated CI/CD pipelines using GitHub Actions
-- 📦 Containerized microservices deployed on Kubernetes  
-- 🧪 Automated vulnerability scanning and compliance checks
-- https://github.com/kenvalley/secureflow
+
+##### sentinel-pay:
+🔒 Production-grade AWS cloud security engineering with Terraform IaC, KMS encryption, VPC network segmentation, ECS Fargate, and automated GuardDuty/CloudTrail/Security Hub observability
+🔁 Security-integrated CI/CD pipeline using GitHub Actions with Gitleaks, Bandit, Semgrep, Trivy, OWASP ZAP, Cosign keyless image signing, Syft SBOM, and OPA policy-as-code gates
+🛡️ End-to-end purple team simulation across 7 attack scenarios (credential leaks, IaC drift, SQLi, IDOR, honeytoken, runtime compromise) with 7/7 detected or blocked
 - https://github.com/kenvalley/sentinel-pay
+
+---
+##### secureflow:
+🔐 End-to-end secret management, container hardening, and runtime threat detection using HashiCorp Vault, Falco, Cosign, and Kubernetes security contexts on kind and AWS EKS
+🛡️ Differentiated CI/CD security gate with GitHub Actions integrating Gitleaks, Trivy, Checkov, SonarCloud, and OWASP ZAP across DevSecOps-owned blocking and AppSec-owned non-blocking controls
+📊 Full security observability stack with Prometheus, Grafana, and Alertmanager providing continuous pipeline metrics, Falco alert rates, and Vault access anomaly detection across 8 dashboard panels
+- https://github.com/kenvalley/secureflow
+
 
 ---
 
