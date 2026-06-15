@@ -20,33 +20,33 @@ I specialize in designing and deploying **scalable, secure, and intelligent syst
 
 ### ☁️ Cloud Security & DevSecOps
 
-#### sentinel-pay:
+#### sentinel-pay: https://github.com/kenvalley/sentinel-pay
 - 🔒 Production-grade AWS cloud security engineering with Terraform IaC, KMS encryption, VPC network segmentation, ECS Fargate, and automated GuardDuty/CloudTrail/Security Hub observability
 - 🔁 Security-integrated CI/CD pipeline using GitHub Actions with Gitleaks, Bandit, Semgrep, Trivy, OWASP ZAP, Cosign keyless image signing, Syft SBOM, and OPA policy-as-code gates
 - 🛡️ End-to-end purple team simulation across 7 attack scenarios (credential leaks, IaC drift, SQLi, IDOR, honeytoken, runtime compromise) with 7/7 detected or blocked
-- https://github.com/kenvalley/sentinel-pay
 
----
-#### secureflow:
+#### secureflow: https://github.com/kenvalley/secureflow
 - 🔐 End-to-end secret management, container hardening, and runtime threat detection using HashiCorp Vault, Falco, Cosign, and Kubernetes security contexts on kind and AWS EKS
 - 🛡️ Differentiated CI/CD security gate with GitHub Actions integrating Gitleaks, Trivy, Checkov, SonarCloud, and OWASP ZAP across DevSecOps-owned blocking and AppSec-owned non-blocking controls
 - 📊 Full security observability stack with Prometheus, Grafana, and Alertmanager providing continuous pipeline metrics, Falco alert rates, and Vault access anomaly detection across 8 dashboard panels
-- https://github.com/kenvalley/secureflow
+  
 
 ---
 
 ### 🤖 MLOps
-- 📊 A Production-Grade MLOps Platform on AWS SageMaker: Data Lineage, Model Governance, and Operational Intelligence. In this project, a binary classifier is trained, versioned, governed, deployed, and monitored, with automated retraining triggered by drift detection
-- https://github.com/kenvalley/kenvalley-sagemaker-mlops-1
 
-- 📊 A Kubernates-Native production-grade MLOps pipeline for SaaS customer churn prediction, built and deployed on AWS EKS. Features a complete ML lifecycle system that:
--- Trains a LightGBM churn classifier weekly on account behavioural signals
--- Evaluates the model against quality gates before it can reach Production
--- Deploys it via GitOps (every deployment is a Git commit, every rollback is a git revert)
--- Serves real-time inference via KServe on AWS EKS with SHAP explanations
--- Presents risk scores to account managers via a Streamlit dashboard
--- Monitors system health via Grafana and triggers alerts on degradation
-- https://github.com/kenvalley/kenvalley-churn1
+#### Production-Grade MLOps Platform on AWS SageMaker: https://github.com/kenvalley/kenvalley-sagemaker-mlops-1
+-  A binary classifier is trained, versioned, governed, deployed, and monitored, with automated retraining triggered by drift detection.
+-  Every component is infrastructure-as-code, every model version is auditable, and the system self-heals when cloud resource limits prevent the default training path.
+
+#### MLOps Churn Prediction System, built and deployed on AWS EKS: https://github.com/kenvalley/kenvalley-churn1
+Features a Kubernetes-native production-grade MLOps pipeline for SaaS customer churn prediction, built and deployed on AWS EKS. The system:
+- Trains a LightGBM churn classifier weekly on account behavioural signals
+- Evaluates the model against quality gates before it can reach Production
+- Deploys it via GitOps (every deployment is a Git commit, every rollback is a git revert)
+- Serves real-time inference via KServe on AWS EKS with SHAP explanations
+- Presents risk scores to account managers via a Streamlit dashboard
+- Monitors system health via Grafana and triggers alerts on degradation
 
 --- 
 
