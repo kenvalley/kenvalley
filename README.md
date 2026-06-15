@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kenneth Ikeagu
 
-🚀 **DevOps | MLOps | LLMOps | Cloud Engineer**  
+🚀 ** MLOps & Cloud Engineer**  
 🎓 B.Eng. Electronic Engineering | MSc. Telecommunications and Wireless Systems (Engr.) | PhD. Electrical Engineering
 
 ---
@@ -15,6 +15,27 @@ I specialize in designing and deploying **scalable, secure, and intelligent syst
 - 🤖 Applying ML to **real-world engineering problems**
 
 ---
+
+## 📂 Featured Projects
+
+### ☁️ Cloud Security & DevSecOps
+- 🔐 Secure AWS architecture with IAM least privilege & monitoring  
+- 🛡️ Infrastructure security scanning with Terraform + policies
+- 🔍 Security-integrated CI/CD pipelines using GitHub Actions
+- 📦 Containerized microservices deployed on Kubernetes  
+- 🧪 Automated vulnerability scanning and compliance checks
+- https://github.com/kenvalley/secureflow
+- https://github.com/kenvalley/sentinel-pay
+
+---
+
+### 🤖 MLOps
+- 📊 End-to-end ML pipeline (training → deployment → monitoring)  
+- 🔄 Automated model retraining workflows
+- https://github.com/kenvalley/kenvalley-churn1
+- https://github.com/kenvalley/kenvalley-sagemaker-mlops-1
+
+--- 
 
 ## 🧰 Tech Stack
 
@@ -31,7 +52,6 @@ I specialize in designing and deploying **scalable, secure, and intelligent syst
 ![Linux](https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=Linux&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-EE4C2C?style=for-the-badge&logo=Shell_Scripting)
 ![Networking](https://img.shields.io/badge/Networking-623CE4?style=for-the-badge&logo=Networking)
-
 
 ---
 
@@ -50,34 +70,6 @@ I specialize in designing and deploying **scalable, secure, and intelligent syst
 ### 🔐 DevSecOps
 ![Security](https://img.shields.io/badge/Cloud-Security-red?style=for-the-badge)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-Integrated-critical?style=for-the-badge)
-
----
-
-## 📂 Featured Projects
-
-### ☁️ Cloud Security
-- 🔐 Secure AWS architecture with IAM least privilege & monitoring  
-- 🛡️ Infrastructure security scanning with Terraform + policies  
-
----
-
-### ⚙️ DevOps
-- 🚀 Fully automated CI/CD pipeline using GitHub Actions  
-- 📦 Containerized microservices deployed on Kubernetes  
-
----
-
-### 🤖 MLOps
-- 📊 End-to-end ML pipeline (training → deployment → monitoring)  
-- 🔄 Automated model retraining workflows
-- https://github.com/kenvalley/kenvalley-churn1
-- https://github.com/kenvalley/kenvalley-sagemaker-mlops-1
-
----
-
-### 🔐 DevSecOps
-- 🔍 Security-integrated CI/CD pipelines  
-- 🧪 Automated vulnerability scanning and compliance checks  
 
 ---
 
